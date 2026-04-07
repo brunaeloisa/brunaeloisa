@@ -24,4 +24,4 @@ Olá! Sou formada em Engenharia Elétrica pela Universidade Federal do Rio Grand
 
 ## GitHub Stats
 
-<img height="150em" src="https://github-readme--stats.vercel.app/api?username=brunaeloisa&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=cb9fed&title_color=cb9fed&text_color=FFF&hide_title=True&card_width=437px&hide=stars&rank_icon=github"/> <img height="150em" src="https://github-readme--stats.vercel.app/api/top-langs/?username=brunaeloisa&layout=compact&card_width=280px&exclude_repo=pdi&bg_color=000&border_color=000&title_color=fff&text_color=fff"/>
+<img height="150em" src="https://github-readme--stats.vercel.app/api?username=brunaeloisa&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=cb9fed&title_color=cb9fed&text_color=FFF&hide_title=True&card_width=437px&hide=stars&rank_icon=github"/> <img height="150em" src="https://github-readme--stats.vercel.app/api/top-langs/?username=brunaeloisa&layout=compact&card_width=300px&exclude_repo=pdi&bg_color=000&border_color=000&title_color=fff&text_color=fff"/>
