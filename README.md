@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Olá! Sou formada em Engenharia Elétrica pela Universidade Federal do Rio Grande do Norte (UFRN) e atualmente estou buscando desenvolver habilidades na área de Desenvolvimento Web.
+Sou formada em Engenharia Elétrica pela UFRN e pós-graduanda em Engenharia de Software pela PUC Minas. Atualmente estou buscando me aprofundar na área de Desenvolvimento Web.
 
 ## Tecnologias
 
