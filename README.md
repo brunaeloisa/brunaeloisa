@@ -16,7 +16,6 @@ Sou formada em Engenharia Elétrica pela UFRN e pós-graduanda em Engenharia de 
 ![ReactJS](https://img.shields.io/badge/ReactJS-000?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6E)
 
-
 ## Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brunaeloisa7@gmail.com) 
@@ -24,4 +23,4 @@ Sou formada em Engenharia Elétrica pela UFRN e pós-graduanda em Engenharia de 
 
 ## GitHub Stats
 
-<img height="150em" src="https://github-readme--stats.vercel.app/api?username=brunaeloisa&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=cb9fed&title_color=cb9fed&text_color=FFF&hide_title=True&card_width=437px&hide=stars&rank_icon=github"/> <img height="150em" src="https://github-readme--stats.vercel.app/api/top-langs/?username=brunaeloisa&layout=compact&card_width=300px&exclude_repo=pdi&bg_color=000&border_color=000&title_color=fff&text_color=fff"/>
+<img height="150em" src="https://github-stats-extended.vercel.app/api?username=brunaeloisa&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=cb9fed&title_color=cb9fed&text_color=FFF&hide_title=True&card_width=437px&hide=stars&rank_icon=github"/> <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=brunaeloisa&layout=compact&card_width=300px&exclude_repo=pdi&bg_color=000&border_color=000&title_color=fff&text_color=fff"/>
